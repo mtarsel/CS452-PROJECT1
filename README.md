@@ -1,6 +1,8 @@
 Flying Triangle
 ==============
 
+Worked with Morey Materise and Dominic Demarco
+
 Move the triangle up and down to avoid the flying squaes. Implementation in C++ using OpenGL.
 
 You control the red triangle and your objective is to avoid the squares flying at you.
